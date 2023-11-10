@@ -1,0 +1,14 @@
+C:\.NET\BlogProject\Bloggie.Model\bin\Debug\net7.0\Bloggie.Model.deps.json
+C:\.NET\BlogProject\Bloggie.Model\bin\Debug\net7.0\Bloggie.Model.runtimeconfig.json
+C:\.NET\BlogProject\Bloggie.Model\bin\Debug\net7.0\Bloggie.Model.dll
+C:\.NET\BlogProject\Bloggie.Model\bin\Debug\net7.0\Bloggie.Model.pdb
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\Bloggie.Model.csproj.AssemblyReference.cache
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\Bloggie.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\Bloggie.Model.AssemblyInfoInputs.cache
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\Bloggie.Model.AssemblyInfo.cs
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\Bloggie.Model.csproj.CoreCompileInputs.cache
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\Bloggie.Model.dll
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\refint\Bloggie.Model.dll
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\Bloggie.Model.pdb
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\Bloggie.Model.genruntimeconfig.cache
+C:\.NET\BlogProject\Bloggie.Model\obj\Debug\net7.0\ref\Bloggie.Model.dll

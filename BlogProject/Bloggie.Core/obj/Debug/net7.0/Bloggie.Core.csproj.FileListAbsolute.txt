@@ -1,0 +1,17 @@
+C:\.NET\BlogProject\Bloggie.Core\bin\Debug\net7.0\Bloggie.Core.deps.json
+C:\.NET\BlogProject\Bloggie.Core\bin\Debug\net7.0\Bloggie.Core.runtimeconfig.json
+C:\.NET\BlogProject\Bloggie.Core\bin\Debug\net7.0\Bloggie.Core.dll
+C:\.NET\BlogProject\Bloggie.Core\bin\Debug\net7.0\Bloggie.Core.pdb
+C:\.NET\BlogProject\Bloggie.Core\bin\Debug\net7.0\Bloggie.Model.dll
+C:\.NET\BlogProject\Bloggie.Core\bin\Debug\net7.0\Bloggie.Model.pdb
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\Bloggie.Core.csproj.AssemblyReference.cache
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\Bloggie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\Bloggie.Core.AssemblyInfoInputs.cache
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\Bloggie.Core.AssemblyInfo.cs
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\Bloggie.Core.csproj.CoreCompileInputs.cache
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\Bloggie.Core.csproj.CopyComplete
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\Bloggie.Core.dll
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\refint\Bloggie.Core.dll
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\Bloggie.Core.pdb
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\Bloggie.Core.genruntimeconfig.cache
+C:\.NET\BlogProject\Bloggie.Core\obj\Debug\net7.0\ref\Bloggie.Core.dll
